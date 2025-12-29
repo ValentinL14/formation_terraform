@@ -36,6 +36,6 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-
 wip/
-wip/01-basics.md
+wip/*
+
